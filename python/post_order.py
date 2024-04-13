@@ -59,7 +59,7 @@ if __name__ == "__main__":
 
     # Load environment variables
     config = ApiConfig()
-    config.paradex_http_url = "https://api.testnet.paradex.trade/v1"
+    config.paradex_http_url = "https://api.prod.paradex.trade/v1"
     # Requires
     ###
     # WEB3_INFURA_PROJECT_ID
